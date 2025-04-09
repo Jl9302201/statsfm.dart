@@ -1,4 +1,4 @@
-library statsfm;
+Joellopez/library statsfm;
 
 import 'dart:async';
 import 'dart:collection';
