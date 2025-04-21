@@ -1,4 +1,4 @@
-[Joel Lopez}<p align="center">
+[Joellopez}Jl9302201@gmail.com stat<p align="center">
   <a href="https://stats.fm">
     <picture width="572">
       <source media="(prefers-color-scheme: dark)" srcset="https://stats.fm/images/banner_transparent.png">
